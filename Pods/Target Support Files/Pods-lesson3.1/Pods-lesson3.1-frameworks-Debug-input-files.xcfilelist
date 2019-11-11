@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-lesson3.1/Pods-lesson3.1-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftySound/SwiftySound.framework
+${BUILT_PRODUCTS_DIR}/TableViewReloadAnimation/TableViewReloadAnimation.framework

@@ -1,0 +1,30 @@
+PODS:
+  - Realm (3.18.0):
+    - Realm/Headers (= 3.18.0)
+  - Realm/Headers (3.18.0)
+  - RealmSwift (3.18.0):
+    - Realm (= 3.18.0)
+  - SwiftySound (1.1.0)
+  - TableViewReloadAnimation (0.0.5)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SwiftySound
+  - TableViewReloadAnimation
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Realm
+    - RealmSwift
+    - SwiftySound
+    - TableViewReloadAnimation
+
+SPEC CHECKSUMS:
+  Realm: 7b3d04740facf45e958a514b466a32b04f1113d6
+  RealmSwift: c817b5f374668cf08f649afb05f55d92a787649c
+  SwiftySound: eb46cc2399cf7d94f58c372f38216e15e0a6de3e
+  TableViewReloadAnimation: f3a4c4048efbc56331be98075f26a2e533a14c16
+
+PODFILE CHECKSUM: 0b2505213137198b67c4fdb69143caec542511b3
+
+COCOAPODS: 1.7.5
